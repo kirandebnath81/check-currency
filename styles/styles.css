@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(139, 12, 12);
+}
+
+.container{
+    text-align: center;
+    margin: 100px;
+}
+
+.input{
+margin: 20px;
+padding: 12px 40px;
+border-radius: 10px;
+box-shadow: 5px 2px 13px 12px;
+font-size: 1.2REM;
+
+}
+
+
+#input-btn{
+    margin: 10px;
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#output-text{
+border: 2px solid white;
+background-color: white;
+width: 300px;
+margin: 20px auto;
+height: 50px;
+border-radius: 20px;
+box-shadow: 5px 2px 13px 12px;
+font-size: 1.5rem;
+}
